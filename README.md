@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankith C R
-===================================================================================================================================
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=42&duration=3000&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ankith+C+R;Java+Full+Stack+Developer;Welcome+to+my+profile!)
+
 
 Full Stack Web Developer
 ------------------------
